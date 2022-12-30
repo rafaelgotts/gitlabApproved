@@ -1,2 +1,2 @@
 # gitlabApproved
-Chrome extension to show how many approved a MR has
+Chrome extension to show how many approves an MR has

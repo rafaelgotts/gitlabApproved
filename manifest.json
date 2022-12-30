@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Gitlab Approved",
+  "version": "0.1",
+  "description": "Chrome extension to show how many approves an MR has",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "host_permissions": ["*://*/"]
+}
