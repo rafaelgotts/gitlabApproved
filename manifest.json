@@ -8,5 +8,10 @@
   },
   "action": {},
   "permissions": ["activeTab", "scripting", "storage", "tabs"],
-  "host_permissions": ["*://*/"]
+  "host_permissions": ["*://*/"],
+  "icons": {
+    "16": "gitlab-16x16.png",
+    "48": "gitlab-48x48.png",
+    "128": "gitlab-128x128.png"
+  }
 }
