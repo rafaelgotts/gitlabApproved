@@ -7,7 +7,7 @@
     "service_worker": "background.js"
   },
   "action": {},
-  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "permissions": ["activeTab", "scripting", "tabs"],
   "host_permissions": ["*://*/"],
   "icons": {
     "16": "gitlab-16x16.png",
